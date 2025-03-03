@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Workspace\\Visual Studio\\CarBooking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|h:\\workspace\\visual studio\\carbooking\\controllers\\carbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|solutionrelative:controllers\\carbookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|h:\\workspace\\visual studio\\carbooking\\model\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|solutionrelative:model\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|h:\\workspace\\visual studio\\carbooking\\model\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|solutionrelative:model\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|h:\\workspace\\visual studio\\carbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|h:\\workspace\\visual studio\\carbooking\\migrations\\20250222142747_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|solutionrelative:migrations\\20250222142747_final.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|h:\\workspace\\visual studio\\carbooking\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|solutionrelative:controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|h:\\workspace\\visual studio\\carbooking\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|h:\\workspace\\visual studio\\carbooking\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|h:\\workspace\\visual studio\\carbooking\\dtos\\bookingcalenderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|solutionrelative:dtos\\bookingcalenderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|h:\\workspace\\visual studio\\carbooking\\dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|solutionrelative:dtos\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|h:\\workspace\\visual studio\\carbooking\\dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|solutionrelative:dtos\\cardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|h:\\workspace\\visual studio\\carbooking\\dtos\\bookingfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|solutionrelative:dtos\\bookingfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|h:\\workspace\\visual studio\\carbooking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA16485B-A5FF-497B-953B-A40387964A3A}|CarBooking.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250222142747_final.cs",
+              "DocumentMoniker": "H:\\Workspace\\Visual Studio\\CarBooking\\Migrations\\20250222142747_final.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250222142747_final.cs",
+              "ToolTip": "H:\\Workspace\\Visual Studio\\CarBooking\\Migrations\\20250222142747_final.cs",
+              "RelativeToolTip": "Migrations\\20250222142747_final.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T14:27:47.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "H:\\Workspace\\Visual Studio\\CarBooking\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarController.cs",
+              "ToolTip": "H:\\Workspace\\Visual Studio\\CarBooking\\Controllers\\CarController.cs",
+              "RelativeToolTip": "Controllers\\CarController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:50:44.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CarDto.cs",
+              "DocumentMoniker": "H:\\Workspace\\Visual Studio\\CarBooking\\Dtos\\CarDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\CarDto.cs",
+              "ToolTip": "H:\\Workspace\\Visual Studio\\CarBooking\\Dtos\\CarDto.cs",
+              "RelativeToolTip": "Dtos\\CarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:48:18.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarBookingController.cs",
+              "DocumentMoniker": "H:\\Workspace\\Visual Studio\\CarBooking\\Controllers\\CarBookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CarBookingController.cs",
+              "ToolTip": "H:\\Workspace\\Visual Studio\\CarBooking\\Controllers\\CarBookingController.cs",
+              "RelativeToolTip": "Controllers\\CarBookingController.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAUwEEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:33:44.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingDto.cs",
+              "DocumentMoniker": "H:\\Workspace\\Visual Studio\\CarBooking\\Dtos\\BookingDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\BookingDto.cs",
+              "ToolTip": "H:\\Workspace\\Visual Studio\\CarBooking\\Dtos\\BookingDto.cs",
+              "RelativeToolTip": "Dtos\\BookingDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:26:41.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingFilterDto.cs",
+              "DocumentMoniker": "H:\\Workspace\\Visual Studio\\CarBooking\\Dtos\\BookingFilterDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\BookingFilterDto.cs",
+              "ToolTip": "H:\\Workspace\\Visual Studio\\CarBooking\\Dtos\\BookingFilterDto.cs",
+              "RelativeToolTip": "Dtos\\BookingFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:26:05.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingCalenderDto.cs",
+              "DocumentMoniker": "H:\\Workspace\\Visual Studio\\CarBooking\\Dtos\\BookingCalenderDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\BookingCalenderDto.cs",
+              "ToolTip": "H:\\Workspace\\Visual Studio\\CarBooking\\Dtos\\BookingCalenderDto.cs",
+              "RelativeToolTip": "Dtos\\BookingCalenderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:25:47.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Workspace\\Visual Studio\\CarBooking\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\Workspace\\Visual Studio\\CarBooking\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:21:41.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "H:\\Workspace\\Visual Studio\\CarBooking\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "H:\\Workspace\\Visual Studio\\CarBooking\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:07:56.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "H:\\Workspace\\Visual Studio\\CarBooking\\Model\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\Booking.cs",
+              "ToolTip": "H:\\Workspace\\Visual Studio\\CarBooking\\Model\\Entities\\Booking.cs",
+              "RelativeToolTip": "Model\\Entities\\Booking.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:06:21.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "H:\\Workspace\\Visual Studio\\CarBooking\\Model\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\Car.cs",
+              "ToolTip": "H:\\Workspace\\Visual Studio\\CarBooking\\Model\\Entities\\Car.cs",
+              "RelativeToolTip": "Model\\Entities\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:00:58.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "H:\\Workspace\\Visual Studio\\CarBooking\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "H:\\Workspace\\Visual Studio\\CarBooking\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:25:29.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Workspace\\Visual Studio\\CarBooking\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "H:\\Workspace\\Visual Studio\\CarBooking\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T09:19:21.09Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
